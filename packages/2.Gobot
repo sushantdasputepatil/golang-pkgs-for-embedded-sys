@@ -1,0 +1,7 @@
+Link to the repository - https://github.com/hybridgroup/gobot
+
+Gobot is a golang framework used for robotics, physical computing, and the Internet of Things.
+
+We can use Gobot for different hardware devices such as - Arduino, ESP32, Dragonboard, MicroBit etc.,
+
+It has available drivers including i2c, spi, mqtt, gpio and many more.
