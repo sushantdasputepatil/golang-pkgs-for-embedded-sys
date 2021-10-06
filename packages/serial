@@ -1,0 +1,16 @@
+Link to Repository : github.com/3nueves/serial
+
+Using this package you can read and write from the serial port as a stream of bytes.
+
+It have the same API on all platforms, including windows.
+
+configuration options are as follows
+You can set the baud rate. 
+Then you can Read(),Write(), or Close() the connection. 
+Read() will block until at least one byte is returned. Write is the same. 
+There is currently no exposed way to set the timeouts.
+
+Default ports parameters are - 8 data bits, 1 stop bit, no parity, no hardware flow control, and no 
+software flow control.
+
+One may Read() and Write() serial ports simulantiously on the same connection with different goroutines.
