@@ -1,0 +1,8 @@
+Link to the repository - https://github.com/tinygo-org/tinygo
+
+TinyGo can be used in embedded systems and also in modern web.
+
+Around 70 different microcontroller boards such as the BBC micro:bit and the Arduino Uno are supported by TinyGo.
+
+It can also produce WebAssembly code which is very compact in size. One can compile programs for web browsers,
+as well as for server and edge computing environments that support the WebAssembly System Interface.
